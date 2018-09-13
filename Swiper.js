@@ -663,7 +663,6 @@ class Swiper extends Component {
     });
 
   render = () => {
-    console.log('state', this.state)
     return (
       <View
         style={[
